@@ -1,5 +1,14 @@
 ---
-layout: tags
-icon: fas fa-tags
-order: 2
+title: Feats
+layout: page
+icon: fas fa-stream
+order: 4
+category_name: Feats
 ---
+
+{% assign matching_posts = site.posts | where_exp: "post", "post.categories contains page.category_name" %}
+{% for post in matching_posts %}
+### [{{ post.title }}]({{ post.url | relative_url }})
+
+{{ post.excerpt | strip_html | truncatewords: 40 }}
+{% endfor %}
