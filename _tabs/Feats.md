@@ -19,6 +19,7 @@ category_name: Feats
 
 {{ child.excerpt | strip_html | truncatewords: 40 }}
 {% endfor %}
+{% endfor %}
 
 {% assign category_posts = matching_posts | where: "parent", page.category_name %}
 {% for post in category_posts %}
@@ -31,6 +32,5 @@ category_name: Feats
 #### [{{ child.title }}]({{ child.url | relative_url }})
 
 {{ child.excerpt | strip_html | truncatewords: 40 }}
-{% endfor %}
 {% endfor %}
 {% endfor %}

@@ -1,6 +1,6 @@
 ---
 title: Creation and Legal Rules
-layout: categories
+layout: page
 icon: fas fa-stream
 order: 1
 ---
