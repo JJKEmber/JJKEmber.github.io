@@ -3,7 +3,9 @@ title: Heavenly Restriction
 categories: [Classes]
 tags: [Creation]
 ---
+
 # Heavenly Restriction
+
 ## Restrictions
 The Heavenly Restriction only happens to living beings with physical bodies, although even if someone meets those standards it's still extremely rare. When making a character for this class, make sure it's not one of the following creature types: **Undead**, **construct** or **elemental**.
 
@@ -21,40 +23,40 @@ You can make a Heavenly Restriction quickly by following these suggestions. Firs
 
 | Level | Features | Martial Arts | Unarmored Movement | Stamina Points |
 | --- | --- | --- | --- | --- |
-| 1 | Restrained Body, Unarmored Mastery, Martial Arts, Body Improvements | 2d4 | +20 ft. | - |
-| 2 | Fighting Style, Battle Master, Stamina | 2d4 | +20 ft. | 2 + Con |
-| 3 | Enhanced Senses | 2d4 | +20 ft. | 3 + Con |
-| 4 |  | 2d6 | +30 ft. | 4 + Con |
-| 5 | Extra Attack, Heavenly Combatant | 2d6 | +30 ft. | 5 + Con |
-| 6 | Ability Score Improvement | 2d6 | +30 ft. | 6 + Con |
-| 7 | Advanced Physical Training | 2d6 | +40 ft. | 7 + Con |
-| 8 |  | 2d6 | +40 ft. | 8 + Con |
-| 9 | Faster Recovery | 2d8 | +40 ft. | 9 + Con |
-| 10 | Heavenly Combatant (2) | 2d8 | +50 ft. | 10 + Con |
-| 11 | Semi Awakened Body, Extra Attack (2) | 2d8 | +50 ft. | 11 + Con |
-| 12 |  | 2d10 | +50 ft. | 12 + Con |
-| 13 | Heavenly Combatant (3) | 2d10 | +60 ft. | 13 + Con |
-| 14 | Ability Score Improvement | 2d10 | +60 ft. | 14 + Con |
-| 15 | Perfected Fighting Style | 2d10 | +60 ft. | 15 + Con |
-| 16 |  | 2d10 | +70 ft. | 16 + Con |
-| 17 | Mastered Physicals, Extra Attack (3) | 2d12 | +70 ft. | 17 + Con |
-| 18 | Ability Score Improvement | 2d12 | +70 ft. | 18 + Con |
-| 19 |  | 2d12 | +80 ft. | 19 + Con |
-| 20 | Awakened Body | 2d12 | +80 ft. | 20 + Con |
+| 1 | Restrained Body, Unarmored Mastery, Martial Arts, Body Improvements | 2d4 | +5 ft. | - |
+| 2 | Fighting Style, Battle Master, Stamina | 2d4 | +5 ft. | 2 + Con |
+| 3 | Enhanced Senses | 2d4 | +5 ft. | 3 + Con |
+| 4 |  | 2d6 | +5 ft. | 4 + Con |
+| 5 | Extra Attack, Heavenly Combatant | 2d6 | +5 ft. | 5 + Con |
+| 6 | Ability Score Improvement | 2d6 | +5 ft. | 6 + Con |
+| 7 | Advanced Physical Training | 2d6 | +10 ft. | 7 + Con |
+| 8 |  | 2d6 | +10 ft. | 8 + Con |
+| 9 | Faster Recovery | 2d8 | +10 ft. | 9 + Con |
+| 10 | Heavenly Combatant (2) | 2d8 | +10 ft. | 10 + Con |
+| 11 | Semi Awakened Body, Extra Attack (2) | 2d8 | +10 ft. | 11 + Con |
+| 12 |  | 2d10 | +10 ft. | 12 + Con |
+| 13 | Heavenly Combatant (3) | 2d10 | +15 ft. | 13 + Con |
+| 14 | Ability Score Improvement | 2d10 | +15 ft. | 14 + Con |
+| 15 | Perfected Fighting Style | 2d10 | +15 ft. | 15 + Con |
+| 16 |  | 2d10 | +15 ft. | 16 + Con |
+| 17 | Mastered Physicals, Extra Attack (3) | 2d12 | +15 ft. | 17 + Con |
+| 18 | Ability Score Improvement | 2d12 | +20 ft. | 18 + Con |
+| 19 |  | 2d12 | +20 ft. | 19 + Con |
+| 20 | Awakened Body | 2d12 | +20 ft. | 20 + Con |
 
-####  Restrained Body 
+#### Restrained Body
 Starting at 1st level, your body is simply built differently than others. You have supernatural strength, speed, and durability. You gain a +1 in your str, dex, con, int, or wis scores. You can pick another score to increase by +1 at 5th, 9th, 13th, and 17th. 
 
-In addition, your str, dex, and con maximums increase to 22. These maximums increase to 24 at 5th level, to 26 at 11th level, and to 30 at 17th level. 
+In addition, your str, dex, and con maximums increase to 22. These maximums increase to 24 at 5th level, to 26 at 11th level, and to 28 at 17th level. 
 
-####  Unarmored Mastery
+#### Unarmored Mastery
 Also at 1st level, due to your enhanced body and senses, you have mastered the art of fighting wearing next to nothing. You gain the listed benefits as long as you are unarmored: 
 
 **Unarmored Defense.** As long as you are not wearing armor or wielding a shield, your AC becomes 10 + your dex or str modifier + your con modifier. 
 
-**Unarmored Movement.** Your speed increases by 20 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain Heavenly Restriction levels, as shown in the Heavenly Restriction table. Additionally, at 5th level, you have two reactions instead of one in each round of combat. 
+**Unarmored Movement.** Your speed increases by 5 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain Heavenly Restriction levels, as shown in the Heavenly Restriction table. Additionally, at 5th level, you have two reactions instead of one in each round of combat. 
 
-####  Martial Arts 
+#### Martial Arts
 Also at 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes, melee martial, and simple weapons.
 
 * You can use dex instead of str for the attack and damage rolls of your unarmed strikes, melee martial, and simple weapons.
@@ -62,7 +64,7 @@ Also at 1st level, your practice of martial arts gives you mastery of combat sty
 * When you use the Attack action with melee weapon attack on your turn, you can make one melee weapon attack as a Bonus Action.
 * You gain access to Sorcerer Weapons. You may use your martial arts damage die instead of the sorcerer weapon damage die if you choose so.
 
-####  Body Improvements 
+#### Body Improvements
 At 1st level, your body is constantly growing and improving, and you learn new ways to use your skills. Body Improvements represent both extreme innate prowess and special training.
 
 **Body Points.** You gain a number of body points equal to your Heavenly Restriction level. They are used to obtain body improvements, and are spent whenever you pick a body improvement with them.
@@ -75,7 +77,7 @@ You cannot switch a body improvement once chosen.
 
 **Improved Body.** Whenever you reach 3 body improvements for a category (Strength, Speed, Endurance, Mind, Instinct), you gain a +2 to the respective ability score of that category. This bonus may only be applied once for each Body Improvement category. 
 
-####  Fighting Style 
+#### Fighting Style
 At 2nd level, you have acquired your very own fighting style. You gain one of the following fighting styles of your choice:
 
 **Blind Warrior.** You have blindsight with a range in feet equal to 5 times your proficiency bonus. In that range, you can see invisible targets and anything that isn't behind total cover or hidden from you.
@@ -102,10 +104,10 @@ At 2nd level, you have acquired your very own fighting style. You gain one of th
 
 Whenever you finish a long rest, you may change your fighting style for another one of your choice.
 
-####  Stamina 
+#### Stamina
 At 2nd level, your mastery in combat and athleticism has been pushed even further. Stamina points represent your ability to go above and beyond your normal limits. Some features utilize stamina points. You have a number of stamina points equal to your level + your con modifier. You will recover stamina on a long rest.
 
-####  Battle Master
+#### Battle Master
 At 2nd level, due to the immense training you have done with your body, you have learned how to use battle maneuvers. 
 
 **Battle Maneuvers.** You have a number of battle maneuvers equal to half your Heavenly Restriction level (Rounded down). At the end of a long rest, you may change out one of your battle maneuvers for another you meet the requirements of.
@@ -118,21 +120,21 @@ Some of your battle maneuvers will force a creature to make a saving throw. The 
 
 **Battle maneuver save DC = 8 + your proficiency bonus + your str or dex modifier (your choice)**
 
-####  Enhanced Senses 
+#### Enhanced Senses
 At 3rd level, your Heavenly Restriction has made your senses way more powerful than a regular person's.
 * **Smell.** Your sense of smell is far beyond human, being more comparable to that of trained dogs and other animals. You can easily tell different sources of smells from each other, such as foliage, people, water and other substances, in a range equal to 5 times your proficiency bonus in feet.
 * **Sight.** Your sense of sight is much more attentive to detail, like those of birds of prey. You can see twice as far as a normal person with fine detail, making it so that even the smallest things don't go past you.
 * **Hearing.** Your hearing is, contrary to most humans, just as reliable if not even more than your other senses. Even when you can't rely on sight, your hearing is enough to maintain you aware of your surroundings. If for any reason you are not able to see, you can still make perception checks without fault in a range equal to 10 times your proficiency bonus in feet.
 
-####  Ability Score Improvement 
+#### Ability Score Improvement
 When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, 18th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. You can't increase an ability score above your ability score limit using this feature. 
 
 You may also ignore this increase to instead gain a **Cursed Feat**.
 
-####  Extra Attack 
+#### Extra Attack
 At 5th level, you can now attack twice instead of once when you take the Attack action. This increases to three times instead of twice at 11th level, and to four at 17th level.
 
-####  Heavenly Combatant 
+#### Heavenly Combatant
 At 5th level, you have learned to use your physical prowess to enhance combat and movement in broad ways. You gain one of the following features:
 
 **Power Strike.** You can strike with extra force from your gifted stamina. When you hit a creature with a melee weapon attack, you may spend one stamina point to add damage equal to your str modifier added three times, or your dex modifier added twice. At 14th level, this becomes your str modifier added four times, or your dex modifier added three times.
@@ -143,24 +145,24 @@ At 5th level, you have learned to use your physical prowess to enhance combat an
 
 You choose an additional feature from this at 10th and 13th level.
 
-####  Advanced Physical Training 
+#### Advanced Physical Training
 At 7th level, you further your focus on improving your physicality as well as your combat ability.
 
 You gain one Body Feat, Taijutsu Feat, or Weapon Feat that you meet the requirements of.
 
-####  Faster Recovery  
+#### Faster Recovery
 At 9th level, your stamina recovers much faster than it used to. While in combat, you will regain hit points equal to half of your con modifier at the beginning of your turn. You can regain limb hit points with this feature, unless they were removed. The combat must be one where your life is at risk.
 
 Additionally in combat, if you have voluntarily not taken any form of actions or moved on your turn, and voluntarily haven’t taken any reactions this round, you will regain 1 stamina point at the beginning of your turns.
 
 Finally, you now regain half your stamina points on a short rest.
 
-####  Semi-Awakened Body 
+#### Semi-Awakened Body
 At 11th level, your body has grown stronger, its physique now absorbing more of the restriction. You gain a +1 in your str, dex, con, int, or wis scores, up to your maximum. 
 
 Additionally, you receive proficiency in str or dex saving throws, you cannot choose a saving throw you're already proficient with. If you were already proficient in both saving throws, you gain proficiency with one other saving throw you weren't proficient with before.
 
-####  Perfected Fighting Style 
+#### Perfected Fighting Style
 At 15th level, you have mastered your fighting style, creating a new personal improved version. 
 
 **Perfected Blind Warrior.** You have blindsight with a range in feet equal to 10 times your proficiency bonus. In that range, you can see invisible targets and anything that isn't behind total cover or hidden from you.
@@ -187,7 +189,7 @@ At 15th level, you have mastered your fighting style, creating a new personal im
 
 If you obtain more than one fighting style, it will also count as its improved version.
 
-####  Mastered Physicals 
+#### Mastered Physicals
 At 17th level, you have mastered one of the three aspects of the body. You gain one of the following mastered physicals:
 
 **Mastered Might.** Your str score increases by 4, up to your maximum. Additionally, you gain proficiency in all str skills. For any skills that you were already proficient in, you gain expertise instead.
@@ -196,11 +198,11 @@ At 17th level, you have mastered one of the three aspects of the body. You gain 
 
 **Mastered Endurance.** Your con score increases by 4, up to your maximum. Additionally, you now add your proficiency bonus to con checks.
 
-####  Awakened Body 
+#### Awakened Body
 Finally at 20th level, your supernatural body has reached its pinnacle. Your str, dex, or con scores increase by +2, or you may pick 2 scores to increase by +1.
 
-#  Body Improvements List 
-###  Strength Improvements 
+# Body Improvements List
+### Strength Improvements
 Strength improvements serve to increase one's body might.
 
 ### Athletic
@@ -212,12 +214,14 @@ A healthy body helps with almost anything, and you know that. When you are prone
 Also, you can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10. 
 
 ### Perfect Leg Strength
-**Prerequisites:** 13 or more str score.
+**Prerequisite:** Strength score of 13 or higher.
 **Body Point Cost:** 1 body point.
 
-You know not to skip leg day, making your leg strength top notch. Whenever you take the dash action, you can gain a bonus to speed equal to 5 times your str modifier. 
+When you Dash, you ignore difficult terrain for the duration of that movement.
 
-Whenever you jump, you can double the distance or height of which you can jump.
+Any reduction to your speed is halved, to a minimum reduction of 5 feet.
+
+Whenever you jump, you can jump twice the normal distance or height.
 
 ### Powerful Build
 **Prerequisites:** 15 or higher str score. 
@@ -262,29 +266,30 @@ Your body has achieved the pinnacle of strength that even the most well trained 
 
 Some things have become so easy for you to do that you always do it perfectly. If you fail a str saving throw by 3 or less, you can spend 2 stamina points to count as if you have succeeded for the purposes of damage, however you’ll still be affected by the effects if any.
 
-###  Speed Improvements 
+### Speed Improvements
 Speed improvements increase your reflexes and velocity.
 
 ### Quick Footed
-**Prerequisites:** 15 or higher dex score. 
-**Body Point Cost:** 2 body points.
+**Prerequisite:** Dexterity score of 15 or higher.
+**Body Point Cost:** 2 Body Points.
 
-Your ability to accelerate your enhanced body is paramount. When you take the dash action, you instead gain extra movement equal to twice your speed.
+Your Speed increases by 10 feet, and you can move through hostile creatures' spaces without restriction.
 
 ### Athletic Velocity
-**Prerequisites:** 15 or higher dex score. 
+**Prerequisites:** 15 or higher dex score.
 **Body Point Cost:** 1 body point.
 
-Your speed is at the top of athletes. Your speed is increased by 20 feet. Additionally, you can take the Dash, Disengage or Dodge action as a bonus action. If you have Untraceable Speed, you can instead take the Dash action as a free action.
+You can take the Dash, Disengage or Dodge action as a bonus action.
+
+Once per turn, when a creature misses you with an attack, you can move up to 10 feet toward a creature you can see without provoking opportunity attacks.
 
 ### Superhuman Velocity
 **Prerequisites:** 5th level, Athletic Velocity,  18 or higher dex score. 
 **Body Point Cost:** 2 body points.
 
-Your speed becomes superhuman, beyond what the people can see. You gain the following benefits:
+Your speed increases by 10 feet.
 
-* The benefit to your speed is increased by 40 feet (+60 feet total).
-* Before you make a dex check, you can spend 1 stamina point to gain advantage on the roll.
+Before you make a dex check, you can spend 1 stamina point to gain advantage on the roll.
 
 ### Sight Velocity
 **Prerequisites:** 11th level, Superhuman Velocity, 24 or higher dex score. 
@@ -292,8 +297,9 @@ Your speed becomes superhuman, beyond what the people can see. You gain the foll
 
 Even the most well trained people can't see you. You gain the following benefits:
 
-* The benefit to your speed is increased by 60 feet (+120 feet total).
-* You can add your dex score when calculating your jump distance and dex modifier when calculating height.
+The benefit to your speed is increased by 60 feet (+120 feet total).
+
+You can add your dex score when calculating your jump distance and dex modifier when calculating height.
 
 ### Sonic Velocity
 **Prerequisites:** 17th level, Sight Velocity, Physically Gifted Heavenly Restriction with zero cursed energy, 26 or higher dex score. 
@@ -301,9 +307,11 @@ Even the most well trained people can't see you. You gain the following benefits
 
 Your velocity while running can even reach the speed of sound. You gain the following benefits:
 
-* The benefit to your speed is increased by 80 feet (+200 feet total).
-* As a reaction when you are forced to make a dex saving throw, you can grant yourself advantage on the saving throw.
-* Once per round, when you fail a dexterity saving throw, you can spend 1 stamina point to reroll one of the dice, and must take the new result.
+The benefit to your speed is increased by 10 feet.
+
+Once per round, you gain advantage on Dexterity saving throws.
+
+Once per round, when you fail a Dexterity saving throw, you can spend 1 stamina point to reroll one of the dice, and must take the new result.
 
 ### Hypersonic Reflexes
 **Prerequisites:** 11th level, Physically Gifted Heavenly Restriction with zero cursed energy, 20 or higher dex score. 
@@ -317,14 +325,14 @@ Your reaction time has now surpassed the speed of sound. You gain one additional
 
 You can overwhelm creatures with your speed. When you use *Speed Step*, the first melee attack roll you make after doing so is made with advantage if the creature is within 5 feet of you and has a lower passive perception than your Battle Maneuver save DC.
 
-###  Endurance Improvements 
+### Endurance Improvements
 Endurance improvements improve the raw durability of your body, such as enhancing your regenerative capabilities.
 
 ### Hardened Exterior
 **Prerequisites:** 15 or higher con score. 
 **Body Point Cost:** 1 body point.
 
-Your skin has become hardened, now granting you an immensely powerful exterior. You reduce all damage but psychic by an amount equal to your con modifier.
+Your skin has become hardened, now granting you an immensely powerful exterior. You reduce all non-Magical piercing, bludgeoning, and slashing damage by an amount equal to your con modifier.
 
 ### Iron-Hard Exterior
 **Prerequisites:** 5th level, Hardened Exterior, 18 or higher con score. 
@@ -340,7 +348,7 @@ Your skin grows harder, being similar to iron in durability. You gain the follow
 
 Your skin has grown even harder, being similar to steel in durability. You gain the following benefits:
 
-* You now instead reduce by an amount equal to your Heavenly Restriction level plus half of your con modifier (rounded up).
+You now reduce non-Magical piercing, bludgeoning, slashing, Acid, Lightning, and Thunder damage by an amount equal to your Heavenly Restriction level plus half of your con modifier (rounded up).
 
 ### Adamantine-Hard Exterior
 **Prerequisites:** 17th level, Steel-Hard Exterior, Physically Gifted Heavenly Restriction with zero cursed energy, 24 or higher con score. 
@@ -348,10 +356,13 @@ Your skin has grown even harder, being similar to steel in durability. You gain 
 
 Your skin has been hardened to the absolute maximum, becoming as hard as adamantine. You gain the following benefits:
 
-* You now instead reduce by an amount equal to your Heavenly Restriction level + your con modifier added twice.
-* You are considered resistant against all non-magical damage but psychic.
-* As a reaction for when you are forced to make a con saving throw, you can grant yourself advantage on the saving throw.
-* Once per round, when you fail a constitution saving throw, you can spend 1 stamina point to reroll one of the dice, and must take the new result.
+You now instead reduce damage by an amount equal to your Heavenly Restriction level plus your Constitution modifier added twice against all damage types except psychic.
+
+You are considered resistant against non-Magical bludgeoning, piercing, and slashing damage.
+
+As a reaction when you are forced to make a Constitution saving throw, you can grant yourself advantage on the saving throw.
+
+Once per round, when you fail a Constitution saving throw, you can spend 1 stamina point to reroll one of the dice, and must take the new result.
 
 ### Tireless Body
 **Prerequisites:** 5th level, 18 or higher con score. 
@@ -375,7 +386,7 @@ You cannot regain limb hit points with this feature.
 
 You cannot receive the benefits of this body improvement while unconscious.
 
-###  Mind Improvements 
+### Mind Improvements
 Mind Improvements improve your intellect and thinking skills.
 
 ### Shadow Master
@@ -418,7 +429,7 @@ You have learned to mix up your movements that lack cursed energy while using a 
 
 When you make a melee weapon attack after successfully hiding from a creature, they will count as surprised against the first attack you make against them.
 
-###  Instinct Improvements 
+### Instinct Improvements
 Instinct improvements serve to improve your senses.
 
 ### Improved Senses
@@ -455,20 +466,24 @@ You have learned to use your otherworldly senses to feel through the air and wor
 If you possess the Untraceable Speed feat, you can use it in tandem with your precognition. When using precognition against an attack roll, you can instead use untraceable speed’s dodge with an acrobatics check, adding your proficiency bonus to the check. In the case of a saving throw, if you succeed the saving throw with the bonus from precognition, you can move out the area as function in Untraceable Speed, being unaffected by the saving throw if you move out of its area.
 
 ### Natural Defender
-**Prerequisites:** 9th level, 18 or more wis score.
-**Body Points Cost:** 3 body points.
+**Prerequisites:** 9th level, Wisdom 18 or higher.
+**Body Points Cost:** 3 Body Points.
 
-Your body developed a natural defense mechanism. When calculating AC through Unarmored Mastery, you may add half your wis modifier (rounded down) to the final result.
+Your body has developed an instinctive defense mechanism that allows you to briefly withstand even the most devastating attacks.
 
-#  Heavenly Maneuvers 
+As a reaction when you take damage, you can gain resistance to all damage until the start of your next turn. This resistance applies to the triggering damage.
+
+Once you use this feature, you can't use it again until you finish a long rest.
+
+# Heavenly Maneuvers
 The maneuvers are separated in the following categories:
 
 **Battle.** Maneuvers that aid your attacks or with other things during battle. You may only use one battle maneuver per attack unless otherwise stated, and may only apply a battle maneuver onto one attack per turn. 
 
 **Supplementary.** Maneuvers that boost your already powerful capabilities. You can only benefit from one supplementary maneuver that lasts for 1 minute at once.
 
-###  Novice Maneuvers 
-####  Novice Battle Maneuvers 
+### Novice Maneuvers
+#### Novice Battle Maneuvers
 
 ### Barrage of Strikes
 As a bonus action for 1 stamina point, you use your savagery to unleash a barrage of strikes. Make two unarmed strikes against a creature within range. At 11th level, you can instead make 3 unarmed strikes.
@@ -668,3 +683,110 @@ This feature does not work on attacks or saving throws you cannot see or are not
 
 #  Multiclassing 
 You cannot multiclass in or out of this class.
+Novice Supplementary Maneuvers
+Adrenaline Rush
+You have learned how to push your body to the point of utilizing adrenaline at will, now being able to utilize your maximum for a short amount of time. As a bonus action for 3 stamina points, you gain the following benefits for the duration:
+
+You can use your reaction before you make a Strength, Dexterity or Constitution checks or saving throw, to gain advantage in that saving throw.
+You gain resistance to bludgeoning, slashing and piercing damage.
+You deal additional damage with melee weapon attacks equal to your Strength modifier.
+This state lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end this maneuver on your turn as a bonus action.
+
+Adept Maneuvers
+Adept Battle Maneuvers
+Perfect Block and Counter
+Prerequisites: 13th level, 16 or higher Wisdom score.
+
+As a reaction to being targeted by a melee attack or being hit by a ranged attack, you may spend 4 stamina points to make a contested weapon attack to parry, and you succeed if your roll is higher. Successfully parrying a melee attack causes it to miss, and you may make a melee weapon attack against said creature as part of the reaction. This cannot be used to negate a critical hit.
+
+Successfully parrying a ranged attack reduces the damage you take by your weapon damage die + your Strength or Dexterity modifier added four times.
+
+If you reduce the damage of a bludgeoning, piercing, or slashing ranged attack to 0, you can choose to redirect it at a creature within 60 feet using your initial attack roll and half the initial damage of the ranged attack.
+
+Thunderous Blow
+Prerequisites: 13th level, 18 or higher Strength score.
+
+As an action for 3 stamina points, you can make a melee weapon attack roll against a creature within reach, throwing all of your might into the attack. On a hit, the creature must succeed on a Strength saving throw or take additional damage equal to a number of Effort Dice rolls equal to your proficiency bonus added twice and be knocked back in a straight line number of feet equal to 10 times your Strength modifier. If a creature hits an object, structure or creature as they are thrown, they take 1d4 bludgeoning damage.
+
+Creatures more than one size larger than you have advantage on their saving throw. Any features which make you count as larger for the purposes of grappling and shoving also make you count as larger for the purposes of this maneuver. The stamina points are not spent if you miss.
+
+Superhuman Combatant
+Prerequisites: 13th level, 24 or higher Strength or Dexterity score.
+
+You may select one Superhuman Combat feature from the Taijutsu Master Sorcerer Path. You may use this selected feature expending stamina points instead of Cursed Energy, though the cost is reduced by 1, to a minimum of 1. Whenever you finish a long rest, you may change your Superhuman Combat option.
+
+Technique Adept
+Prerequisites: 13th level, 24 or higher Strength or Dexterity score.
+
+You may select 2 Secret Technique features from the Weapon Master Sorcerer Path. You may use this selected feature expending stamina points instead of Cursed Energy, though the cost is reduced by 1, to a minimum of 1. Whenever you finish a long rest, you may change your options.
+
+You may not choose the following techniques: Cursed Smite Extending Weapon Slash of Energy
+
+Adept Supplementary Maneuvers
+Comet Velocity
+Prerequisites: 9th level, 20 or higher Dexterity score.
+
+As a bonus action, you can spend 3 stamina points to increase your speed to astronomical heights for 1 minute. For the duration, you gain the following benefits:
+
+Your walking speed increases by your Dexterity modifier times 10.
+Creatures with a passive perception below your Dexterity score cannot make attacks of opportunity against you.
+Adrenaline Addict
+Prerequisites: 11th level, 18 or more Strength score.
+
+To enjoy battle to its fullest potential is your objective, and nothing will stop you from doing so. Whenever you are below half of your maximum hit points (rounded up), you can spend 1 stamina point at the beginning of your turn to gain the following benefits:
+
+You gain a +2 to melee weapon attack and damage rolls that use Strength.
+Your walking speed increases by 10.
+You can make one melee weapon attack as a bonus action.
+You lose all benefits after combat ends, or you take a short or long rest.
+
+Master Maneuvers
+Battle Maneuvers
+Combo
+Prerequisites: 17th level, 26 or higher Dexterity score.
+
+Once you hit an attack, you can start an incredible sequence. If you have not moved at all on your turn, as part of making the first attack in your turn, you can spend 3 stamina points to start a combo. However, each attack you make is harder to land than the next as you push yourself beyond your normal limits. The next attack has a -2 to hit, if you hit said attack the next attack has a -4 to hit, and so on. However, you are able to keep making attacks until you miss, to a maximum number of times equal to double your proficiency bonus. When you use this feature, your speed is reduced to 0 until the beginning of your next turn.
+
+These penalties to attack rolls last until the end of your current turn.
+
+Executioner's Blow
+Prerequisites: 17th level, 26 or higher Strength or Dexterity score.
+
+You can take advantage of a creature's unfortunate position to give a death blow. Whenever a creature is knocked prone within your reach, you can spend 2 stamina points as a reaction to make a melee weapon attack against said creature. On a hit, you deal extra damage equal to a number of effort dice rolls equal to your proficiency bonus.
+
+Instant Multi-Strike
+Prerequisites: 17th level, 26 or higher Dexterity score.
+
+As an action, you can spend 4 stamina points to flourish a melee weapon then vanish. Choose up to five targets that you can see within your walking speed range and make one melee attack against each one.
+
+Your attacks are made with advantage if the creatures have a passive perception lower than your battle maneuver save DC.
+
+You then appear in an unoccupied space of your choice you can see within 5 feet of the last creature you hit using this maneuver.
+
+Throw Building
+Prerequisites: 17th level, 26 or higher Strength score.
+
+In place of an attack, for 3 stamina points, you can choose a creature or object of a size up to 1 size category larger than you within your unarmed strike reach, and make an Athletics check contested by their Athletics or Acrobatics (their choice). On a success, you can throw the creature up to 60 feet, dealing Xd6 bludgeoning damage (where X is your Strength modifier added five times) to them and anyone in the path they’re thrown in who fails a Dexterity saving throw.
+
+The d6s become D8s if the target is large, d10s if they’re huge, and d12s if they’re gargantuan.
+
+You may also use this maneuver with objects, having a set DC instead of a contested check:
+
+5 for tiny
+7 for small
+10 for medium
+15 for large
+20 for huge
+25 for gargantuan
+Supplementary Maneuvers
+Meat Shield
+Prerequisites: 17th level, 26 or higher Constitution score.
+
+Once per round, when being forced to make a Strength or Dexterity saving throw, you can spend 3 stamina points to fail the save and take the damage. However, this protects creatures if you manage to take all the damage. Any creature that’s not at least one size bigger than yourself that’s at least 5 feet behind you is not affected by the saving throw, even if they are within range if you manage to take all the damage.
+
+Supreme Instinct
+Prerequisites: 17th level, Precognition Body Improvement.
+
+You have learned to enter a state of extreme focus to feel the flow of the world around you, air density, facets, and your surroundings will allow you to anticipate incoming attacks. As an action for 5 stamina points, you can begin concentrating as if concentrating on a spell. For one minute, you add your proficiency bonus to your AC, and gain a bonus to any saving throws you are forced to make equal to half of your proficiency bonus. While in this state, any blindsight you have will be increased by your proficiency bonus times 5. You must use your bonus action on each of your turns to remain in this state.
+
+This feature does not work on attacks or saving throws you cannot see or are not aware of, or attacks that do not travel through your surroundings, such as mental attacks.

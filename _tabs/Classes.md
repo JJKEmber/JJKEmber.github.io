@@ -1,7 +1,7 @@
 ---
 title: Classes
 layout: page
-icon: fas fa-archive
+icon: fas fa-stream
 order: 3
 category_name: Classes
 ---
