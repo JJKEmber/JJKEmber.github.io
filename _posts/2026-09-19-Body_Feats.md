@@ -3,12 +3,6 @@ title: Body Feats
 categories: [Feats]
 parent: Feats
 ---
-
-d4	d6
-d6	d8
-d8	d10
-d10	d12
-d12	2d6
 The body is one of the most important things for a sorcerer. Strength, durability, and speed can all be improved here.
 
 ### Athlete History
