@@ -6,7 +6,7 @@ order: 1
 category_name: "Creation and Legal Rules"
 ---
 
-{% assign matching_posts = site.posts | where_exp: "post", "post.categories contains page.category_name" %}
+{% assign matching_posts = site.posts | where_exp: "post", "post.categories contains 'Creation and Legal Rules'" %}
 {% for post in matching_posts %}
 ### [{{ post.title }}]({{ post.url | relative_url }})
 

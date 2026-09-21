@@ -4,6 +4,9 @@ categories: ["Creation and Legal Rules"]
 parent: "Creation and Legal Rules"
 ---
 
+> This post is part of the Creation and Legal Rules collection.
+> This line is here to ensure the post is clearly associated with the Creation and Legal Rules tab.
+
 # Variant Rules
 
 ## Flanking
