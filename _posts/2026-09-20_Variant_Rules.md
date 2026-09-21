@@ -1,7 +1,7 @@
 ---
 title: Variant Rules
-categories: [Creation and Legal Rules]
-parent: Creation and Legal Rules
+categories: ["Creation and Legal Rules"]
+parent: "Creation and Legal Rules"
 ---
 
 # Variant Rules

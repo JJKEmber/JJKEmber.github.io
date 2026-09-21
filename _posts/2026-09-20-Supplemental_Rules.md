@@ -1,7 +1,7 @@
 ---
 title: Supplemental Rules
-categories: [Creation and Legal Rules]
-parent: Creation and Legal Rules
+categories: ["Creation and Legal Rules"]
+parent: "Creation and Legal Rules"
 ---
 
 # Supplemental Rules

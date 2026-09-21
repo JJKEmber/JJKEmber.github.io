@@ -3,7 +3,7 @@ title: Creation and Legal Rules
 layout: page
 icon: fas fa-stream
 order: 1
-category_name: Creation and Legal Rules
+category_name: "Creation and Legal Rules"
 ---
 
 {% assign matching_posts = site.posts | where_exp: "post", "post.categories contains page.category_name" %}
