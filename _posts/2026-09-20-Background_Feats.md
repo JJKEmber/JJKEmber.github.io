@@ -66,9 +66,7 @@ Choose one condition that is appropriate to your Cursed Energy Trait. The chosen
 
 Whenever you deal damage to a creature with a Cursed Energy feature that isn't an Innate Technique, you can force that creature to make a Constitution saving throw against your Cursed Energy save DC.
 
-On a successful save, the creature is unaffected. On a failed save, the creature suffers your chosen condition until the end of its next turn.
-
-This effect can trigger once for each attack or saving throw that deals damage to a creature. If an attack or saving throw causes a creature to take damage multiple times as part of the same attack or feature, it can trigger this effect only once for that creature.
+On a successful save, the creature is unaffected. On a failed save, the creature suffers your chosen condition until the end of its next turn. A creature makes this save only once per round.
 
 If the creature uses Cursed Armor to reduce or mitigate the damage from the triggering feature, and the amount of Cursed Energy it spends on Cursed Armor is greater than the amount of Cursed Energy you spent on the triggering feature, the Dynamic Striker effect is negated.
 

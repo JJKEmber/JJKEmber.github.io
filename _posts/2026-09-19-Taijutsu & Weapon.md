@@ -94,7 +94,7 @@ When you make an attack roll against an enemy for the first time on your turn, y
 
 ### Air Jump
 
-**Prerequisites:** Cursed Energy Reinforcement or 16th-level Heavenly Restriction; 10 Object Awareness.
+**Prerequisites:** 10 Object Awareness.
 
 You can propel yourself through the air using Cursed Energy.
 

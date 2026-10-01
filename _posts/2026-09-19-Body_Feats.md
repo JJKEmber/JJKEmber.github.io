@@ -57,7 +57,7 @@ Even by the supernatural standards of the Jujutsu world, your agility is fearsom
 You are exceptionally durable, making you difficult to take down.
 
 * Your Constitution score increases by 1, to a maximum of 20.
-* You will add an additional 1+half your proficenecy bonus (rounding down) to your Hitpoints.
+* You will add an additional 1+half your proficenecy bonus (rounding down) to your Hitpoints per level.
 * Reduce all damage you take except psychic damage by your Constitution modifier. Attacks using Cursed Energy or magic can bypass this reduction unless you are under the effects of Cursed Armor.
 
 ### Human Wall

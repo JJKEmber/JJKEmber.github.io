@@ -25,7 +25,7 @@ Death Painting names are decided after they incarnate and can be any type of nam
 | **Ability Score Increase** | Ability Score Increase. Your Constitution score increases by 1, and your Charisma score increases by 1.|
 | **Age** | Because they are half curse, Death Paintings have infinite lifespans. Their vessels can die of old age, but they remain alive as cursed objects. |
 | **Alignment** | Death Paintings are extremely loyal to their siblings, making them lawful by nature. |
-| **Size** | Your size is determined by your subrace. If you are a Near Curse, you are Small. Otherwise, you are Medium. |
+| **Size** | Your size is determined by your subrace. If you are a Near Curse, you may chose to be Small. Otherwise, you are Medium. |
 | **Speed** | Your walking speed is determined by your size. If you are Small, your walking speed is 25 feet. If you are Medium, your walking speed is 30 feet.|
 | **Powerful Build** | You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. |
 | **Body Owner** | You gain advantage against effects that would change your form. You also count as undead. |
@@ -37,7 +37,7 @@ Your blood possesses unnatural properties. Choose one of the following propertie
 
 #### Poisonous Blood
 
-When a creature other than you comes into contact with your blood, it must succeed on a Constitution saving throw against a DC equal to 8 + your proficiency bonus + your Constitution modifier or become poisoned for 1 minute. While poisoned in this way, the creature takes 1d12 poison damage at the start of each of its turns. The creature can repeat the saving throw at the end of each of its turns, ending the effect on a success.
+When a creature other than you comes into contact with your blood, it must succeed on a Constitution saving throw against a DC equal to 8 + your proficiency bonus + your Constitution modifier or become poisoned for 1 minute. While poisoned in this way, the creature takes 1d6 poison damage at the start of each of its turns. The creature can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 
 **Blood-Coated Weapons.** As a bonus action, you can lose 1 hit point to coat a weapon that deals slashing or piercing damage with your blood. The next time that weapon hits a creature, the blood is consumed and the creature must make the saving throw against your Poisonous Blood. On a failed save, it suffers the effects of your Poisonous Blood.
 

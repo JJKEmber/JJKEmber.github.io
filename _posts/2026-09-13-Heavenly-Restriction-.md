@@ -21,27 +21,27 @@ You can make a Heavenly Restriction quickly by following these suggestions. Firs
 
 ## Heavenly Restriction Class Features
 
-| Level | Features | Martial Arts | Unarmored Movement | Stamina Points |
+| Level | Proficiency Bonus | Features | Martial Arts | Unarmored Movement | Stamina Points |
 | --- | --- | --- | --- | --- |
-| 1 | Restrained Body, Unarmored Mastery, Martial Arts, Body Improvements | 2d4 | +5 ft. | - |
-| 2 | Fighting Style, Battle Master, Stamina | 2d4 | +5 ft. | 2 + Con |
-| 3 | Enhanced Senses | 2d4 | +5 ft. | 3 + Con |
-| 4 |  | 2d6 | +5 ft. | 4 + Con |
-| 5 | Extra Attack, Heavenly Combatant | 2d6 | +5 ft. | 5 + Con |
-| 6 | Ability Score Improvement | 2d6 | +5 ft. | 6 + Con |
-| 7 | Advanced Physical Training | 2d6 | +10 ft. | 7 + Con |
-| 8 |  | 2d6 | +10 ft. | 8 + Con |
-| 9 | Faster Recovery | 2d8 | +10 ft. | 9 + Con |
-| 10 | Heavenly Combatant (2) | 2d8 | +10 ft. | 10 + Con |
-| 11 | Semi Awakened Body, Extra Attack (2) | 2d8 | +10 ft. | 11 + Con |
-| 12 |  | 2d10 | +10 ft. | 12 + Con |
-| 13 | Heavenly Combatant (3) | 2d10 | +15 ft. | 13 + Con |
-| 14 | Ability Score Improvement | 2d10 | +15 ft. | 14 + Con |
-| 15 | Perfected Fighting Style | 2d10 | +15 ft. | 15 + Con |
-| 16 |  | 2d10 | +15 ft. | 16 + Con |
-| 17 | Mastered Physicals, Extra Attack (3) | 2d12 | +15 ft. | 17 + Con |
-| 18 | Ability Score Improvement | 2d12 | +20 ft. | 18 + Con |
-| 19 |  | 2d12 | +20 ft. | 19 + Con |
+| 1 | +2 | Restrained Body, Unarmored Mastery, Martial Arts, Body Improvements | 2d4 | +5 ft. | - |
+| 2 | +2 | Fighting Style, Battle Master, Stamina | 2d4 | +5 ft. | 2 + Con |
+| 3 | +2 | Enhanced Senses | 2d4 | +5 ft. | 3 + Con |
+| 4 | +2 | Ability Score Improvement | 2d6 | +5 ft. | 4 + Con |
+| 5 | +3 | Extra Attack, Heavenly Combatant | 2d6 | +5 ft. | 5 + Con |
+| 6 | +3 | Ability Score Improvement | 2d6 | +5 ft. | 6 + Con |
+| 7 | +3 | Advanced Physical Training | 2d6 | +10 ft. | 7 + Con |
+| 8 | +3 | Ability Score Improvement | 2d6 | +10 ft. | 8 + Con |
+| 9 | +4 | Faster Recovery | 2d8 | +10 ft. | 9 + Con |
+| 10 | +4 | Heavenly Combatant (2) | 2d8 | +10 ft. | 10 + Con |
+| 11 | +4 |Semi Awakened Body, Extra Attack (2) | 2d8 | +10 ft. | 11 + Con |
+| 12 | +4 | Ability Score Improvement | 2d10 | +10 ft. | 12 + Con |
+| 13 | +5 | Heavenly Combatant (3) | 2d10 | +15 ft. | 13 + Con |
+| 14 | +5 |Ability Score Improvement | 2d10 | +15 ft. | 14 + Con |
+| 15 | +5 | Perfected Fighting Style | 2d10 | +15 ft. | 15 + Con |
+| 16 | +5 | Ability Score Improvement | 2d10 | +15 ft. | 16 + Con |
+| 17 | +6 | Mastered Physicals, Extra Attack (3) | 2d12 | +15 ft. | 17 + Con |
+| 18 | +6 | Ability Score Improvement | 2d12 | +20 ft. | 18 + Con |
+| 19 | +6 | Ability Score Improvement | 2d12 | +20 ft. | 19 + Con |
 | 20 | Awakened Body | 2d12 | +20 ft. | 20 + Con |
 
 #### Restrained Body
@@ -250,7 +250,7 @@ Your body has monstrous strength, making facing enemies four times your size fee
 * Whenever you attack with an unarmed strike using your str modifier, its damage die tier instead increases by two. 
 
 ### Divine Build
-**Prerequisites:** 17th level, **Monstrous Build**,  Physically Gifted Heavenly Restriction with zero cursed energy,  26 or higher str score.
+**Prerequisites:** 17th level, **Monstrous Build**,  26 or higher str score.
 **Body Point Cost:** 4 body points.
 
 Your body has achieved the pinnacle of strength that even the most well trained sorcerers with cursed energy reinforcement couldn't reach. You gain the following benefits:
@@ -302,7 +302,7 @@ The benefit to your speed is increased by 60 feet (+120 feet total).
 You can add your dex score when calculating your jump distance and dex modifier when calculating height.
 
 ### Sonic Velocity
-**Prerequisites:** 17th level, Sight Velocity, Physically Gifted Heavenly Restriction with zero cursed energy, 26 or higher dex score. 
+**Prerequisites:** 17th level, Sight Velocity, 26 or higher dex score. 
 **Body Point Cost:** 4 body points.
 
 Your velocity while running can even reach the speed of sound. You gain the following benefits:
@@ -314,13 +314,13 @@ Once per round, you gain advantage on Dexterity saving throws.
 Once per round, when you fail a Dexterity saving throw, you can spend 1 stamina point to reroll one of the dice, and must take the new result.
 
 ### Hypersonic Reflexes
-**Prerequisites:** 11th level, Physically Gifted Heavenly Restriction with zero cursed energy, 20 or higher dex score. 
+**Prerequisites:** 11th level, 20 or higher dex score. 
 **Body Point Cost:** 3 body points.
 
 Your reaction time has now surpassed the speed of sound. You gain one additional reaction.
 
 ### Speed Blitz
-**Prerequisites:** Physically Gifted Heavenly Restriction with zero cursed energy, 18 or higher dex score. 
+**Prerequisites:** 18 or higher dex score. 
 **Body Point Cost:** 1 body point.
 
 You can overwhelm creatures with your speed. When you use *Speed Step*, the first melee attack roll you make after doing so is made with advantage if the creature is within 5 feet of you and has a lower passive perception than your Battle Maneuver save DC.
@@ -351,7 +351,7 @@ Your skin has grown even harder, being similar to steel in durability. You gain 
 You now reduce non-Magical piercing, bludgeoning, slashing, Acid, Lightning, and Thunder damage by an amount equal to your Heavenly Restriction level plus half of your con modifier (rounded up).
 
 ### Adamantine-Hard Exterior
-**Prerequisites:** 17th level, Steel-Hard Exterior, Physically Gifted Heavenly Restriction with zero cursed energy, 24 or higher con score. 
+**Prerequisites:** 17th level, Steel-Hard Exterior, 24 or higher con score. 
 **Body Point Cost:** 4 body points.
 
 Your skin has been hardened to the absolute maximum, becoming as hard as adamantine. You gain the following benefits:
@@ -371,7 +371,7 @@ Once per round, when you fail a Constitution saving throw, you can spend 1 stami
 Your body is known for its incredible durability in every aspect possible. You can hold your breath for twice as long, suffocate for twice as long without dropping to 0 hit points, you can go twice as long without food and water, and exhaustion from food and water deprivation takes twice as long to occur. In addition, the number of exhaustion levels required for each effect of exhaustion are doubled.
 
 ### Improved Healing Factor
-**Prerequisites:** 9th level, Physically Gifted Heavenly Restriction with zero cursed energy, 20 or higher con score. 
+**Prerequisites:** 9th level, 20 or higher con score. 
 **Body Points Cost:** 1 body point.
 
 Due to being the pinnacle of heavenly restriction, even your body’s natural healing is increased. Your Faster Recovery feature now heals your full con modifier in hit points rather than half.
@@ -439,7 +439,7 @@ Instinct improvements serve to improve your senses.
 Your senses became enhanced because of your restriction.You have proficiency in wis (perception) checks. If you already have proficiency, it becomes expertise. 
 
 ### Superhuman Senses
-**Prerequisites:** 5th level, Enhanced Senses, Physically Gifted Heavenly Restriction with zero cursed energy, 16 or higher wis score. 
+**Prerequisites:** 5th level, Enhanced Senses, 16 or higher wis score. 
 **Body Points Cost:** 2 body points.
 
 Your senses are heightened beyond the human limit. You gain the following benefits:
@@ -448,7 +448,7 @@ Your senses are heightened beyond the human limit. You gain the following benefi
 * Your Enhanced Senses feature improves. The range of your *Hearing* and *Smell* is now 20 times your proficiency bonus in feet.
 
 ### Things Only You Can See
-**Prerequisites:** 11th level, Superhuman Senses, Physically Gifted Heavenly Restriction with zero cursed energy, 16 or higher wis score. 
+**Prerequisites:** 11th level, Superhuman Senses, 16 or higher wis score. 
 **Body Points Cost:** 3 body points.
 
 Your senses are otherworldly, granting you instincts not even animals have. You gain the following benefits:
