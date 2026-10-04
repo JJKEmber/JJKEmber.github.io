@@ -18,7 +18,7 @@ The benefits you gain depend on the ability score you chose:
 
 Strength. You gain the Athlete History feat. In addition, you add your Strength modifier to the damage of your melee attacks an additional time. You also count as one size larger when determining your carrying capacity and when resolving grapples, shoves, and disarms.
 
-Dexterity. You gain the 50 Meters in 3 Seconds! feat. In addition, your walking speed increases by a number of feet equal to 5 times your Dexterity modifier, to a minimum increase of 5 feet.
+Dexterity. You gain the 50 Meters in 3 Seconds! feat. In addition, your walking speed increases by 10 feet.
 
 **Constitution.** You gain the Strong Body feat. In addition, your hit point maximum increases by 3 whenever you gain a level in a class.
 

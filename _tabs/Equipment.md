@@ -2,7 +2,7 @@
 title: Equipment
 layout: page
 icon: fas fa-shield-alt
-order: 7
+order: 5
 category_name: Equipment
 ---
 
