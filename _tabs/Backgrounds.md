@@ -1,0 +1,14 @@
+---
+title: Backgrounds
+layout: page
+icon: fas fa-stream
+order: 2
+category_name: Backgrounds
+---
+
+{% assign matching_posts = site.posts | where_exp: "post", "post.categories contains page.category_name" %}
+{% for post in matching_posts %}
+### [{{ post.title }}]({{ post.url | relative_url }})
+
+{{ post.excerpt | strip_html | truncatewords: 40 }}
+{% endfor %}
