@@ -363,7 +363,7 @@ Your skin has become hardened, now granting you an immensely powerful exterior. 
 
 Your skin grows harder, being similar to iron in durability. You gain the following benefits:
 
-* You now reduce all damage but psychic by an amount equal to your con modifier plus half your Heavenly Restriction level (rounded up).
+*You now instead reduce damage by an amount equal to your con modifier plus half your Heavenly Restriction level (rounded up) additionally including Fire, Poison, and Cold Damage.
 
 ### Steel-Hard Exterior
 **Prerequisites:** 11th level, Iron-Hard Exterior, 24 or higher con score. 
