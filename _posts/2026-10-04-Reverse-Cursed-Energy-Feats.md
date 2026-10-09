@@ -8,7 +8,7 @@ These feats relate to Reverse Cursed Energy. You cannot gain any of these cursed
 
 ### Reverse Cursed Technique
 
-**Prerequisites:** You must be at least 8th level, have a Charisma score of 17 or higher, have failed two death saves in the same combat and survived, or have sufficient knowledge and skill fitting of the Reverse Cursed Technique (determined by the DM).
+**Prerequisites:** You must be at least 8th level, have a Charisma score of 17 or higher.
 
 After many battles and studies about your cursed energy, you learn to use your cursed energy in a completely opposite way, channeling positive energy instead of negative.
 

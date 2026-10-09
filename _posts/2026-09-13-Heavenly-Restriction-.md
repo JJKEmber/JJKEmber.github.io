@@ -17,12 +17,35 @@ Creatures born with a physical Heavenly Restriction have been born with such lit
 When creating a Heavenly Restriction, think about how you were treated because of it. Did your clan exile you? Have you been shamed for your condition by others? Did you just leave everything behind to live on your own?
 
 ### Quick Build
-You can make a Heavenly Restriction quickly by following these suggestions. First, Strength or Dexterity should be your highest ability score, followed by Constitution. Second, choose the Sorcerer Family background.
+You can make a Heavenly Restriction quickly by following these suggestions. First, Strength or Dexterity should be your highest ability score, followed by Constitution. Second, customizable background.
+
+Class Features
+As a Heavenly Restriction you gain the following class features.
+
+Hit Points
+Hit Dice: 1d12 per Heavenly Restriction level
+Hit Points at 1st Level: 12 + Constitution modifier
+Hit Points at Higher Levels: 1d12 (or 7) + Constitution modifier per Heavenly Restriction level after 1st
+
+Proficiencies
+Armor: None
+Weapons: Simple Weapons, Martial Weapons
+Tools: None
+Saving Throws: Strength or Dexterity, Constitution
+Skills: Choose two between the following: Acrobatics, Athletics, Insight, Intimidation, Perception, Stealth, Survival
+
+Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+
+(a) two simple weapons of your choice or (b) a martial weapon of your choice
+(a) one dagger or (b) one Handgun and 20 rounds
+(a) Dungeoneer's Pack or (b) Explorer's Pack
+If you are using starting wealth, you have 5d4x10 in funds.
 
 ## Heavenly Restriction Class Features
 
 | Level | Proficiency Bonus | Features | Martial Arts | Unarmored Movement | Stamina Points |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 1 | +2 | Restrained Body, Unarmored Mastery, Martial Arts, Body Improvements | 2d4 | +5 ft. | - |
 | 2 | +2 | Fighting Style, Battle Master, Stamina | 2d4 | +5 ft. | 2 + Con |
 | 3 | +2 | Enhanced Senses | 2d4 | +5 ft. | 3 + Con |
@@ -42,7 +65,7 @@ You can make a Heavenly Restriction quickly by following these suggestions. Firs
 | 17 | +6 | Mastered Physicals, Extra Attack (3) | 2d12 | +15 ft. | 17 + Con |
 | 18 | +6 | Ability Score Improvement | 2d12 | +20 ft. | 18 + Con |
 | 19 | +6 | Ability Score Improvement | 2d12 | +20 ft. | 19 + Con |
-| 20 | Awakened Body | 2d12 | +20 ft. | 20 + Con |
+| 20 | +6 | Awakened Body | 2d12 | +20 ft. | 20 + Con |
 
 #### Restrained Body
 Starting at 1st level, your body is simply built differently than others. You have supernatural strength, speed, and durability. You gain a +1 in your str, dex, con, int, or wis scores. You can pick another score to increase by +1 at 5th, 9th, 13th, and 17th. 
@@ -52,7 +75,7 @@ In addition, your str, dex, and con maximums increase to 22. These maximums incr
 #### Unarmored Mastery
 Also at 1st level, due to your enhanced body and senses, you have mastered the art of fighting wearing next to nothing. You gain the listed benefits as long as you are unarmored: 
 
-**Unarmored Defense.** As long as you are not wearing armor or wielding a shield, your AC becomes 10 + your dex or str modifier + your con modifier. 
+**Unarmored Defense.** As long as you are not wearing armor or wielding a shield, your AC becomes 10 + your highest of Strength, Dexterity, or Constitution + your Proficiency Bonus.
 
 **Unarmored Movement.** Your speed increases by 5 feet while you are not wearing armor or wielding a shield. This bonus increases when you reach certain Heavenly Restriction levels, as shown in the Heavenly Restriction table. Additionally, at 5th level, you have two reactions instead of one in each round of combat. 
 
@@ -681,112 +704,6 @@ You have learned to enter a state of extreme focus to feel the flow of the world
 
 This feature does not work on attacks or saving throws you cannot see or are not aware of, or attacks that do not travel through your surroundings, such as mental attacks.
 
-#  Multiclassing 
+# Multiclassing
+
 You cannot multiclass in or out of this class.
-Novice Supplementary Maneuvers
-Adrenaline Rush
-You have learned how to push your body to the point of utilizing adrenaline at will, now being able to utilize your maximum for a short amount of time. As a bonus action for 3 stamina points, you gain the following benefits for the duration:
-
-You can use your reaction before you make a Strength, Dexterity or Constitution checks or saving throw, to gain advantage in that saving throw.
-You gain resistance to bludgeoning, slashing and piercing damage.
-You deal additional damage with melee weapon attacks equal to your Strength modifier.
-This state lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end this maneuver on your turn as a bonus action.
-
-Adept Maneuvers
-Adept Battle Maneuvers
-Perfect Block and Counter
-Prerequisites: 13th level, 16 or higher Wisdom score.
-
-As a reaction to being targeted by a melee attack or being hit by a ranged attack, you may spend 4 stamina points to make a contested weapon attack to parry, and you succeed if your roll is higher. Successfully parrying a melee attack causes it to miss, and you may make a melee weapon attack against said creature as part of the reaction. This cannot be used to negate a critical hit.
-
-Successfully parrying a ranged attack reduces the damage you take by your weapon damage die + your Strength or Dexterity modifier added four times.
-
-If you reduce the damage of a bludgeoning, piercing, or slashing ranged attack to 0, you can choose to redirect it at a creature within 60 feet using your initial attack roll and half the initial damage of the ranged attack.
-
-Thunderous Blow
-Prerequisites: 13th level, 18 or higher Strength score.
-
-As an action for 3 stamina points, you can make a melee weapon attack roll against a creature within reach, throwing all of your might into the attack. On a hit, the creature must succeed on a Strength saving throw or take additional damage equal to a number of Effort Dice rolls equal to your proficiency bonus added twice and be knocked back in a straight line number of feet equal to 10 times your Strength modifier. If a creature hits an object, structure or creature as they are thrown, they take 1d4 bludgeoning damage.
-
-Creatures more than one size larger than you have advantage on their saving throw. Any features which make you count as larger for the purposes of grappling and shoving also make you count as larger for the purposes of this maneuver. The stamina points are not spent if you miss.
-
-Superhuman Combatant
-Prerequisites: 13th level, 24 or higher Strength or Dexterity score.
-
-You may select one Superhuman Combat feature from the Taijutsu Master Sorcerer Path. You may use this selected feature expending stamina points instead of Cursed Energy, though the cost is reduced by 1, to a minimum of 1. Whenever you finish a long rest, you may change your Superhuman Combat option.
-
-Technique Adept
-Prerequisites: 13th level, 24 or higher Strength or Dexterity score.
-
-You may select 2 Secret Technique features from the Weapon Master Sorcerer Path. You may use this selected feature expending stamina points instead of Cursed Energy, though the cost is reduced by 1, to a minimum of 1. Whenever you finish a long rest, you may change your options.
-
-You may not choose the following techniques: Cursed Smite Extending Weapon Slash of Energy
-
-Adept Supplementary Maneuvers
-Comet Velocity
-Prerequisites: 9th level, 20 or higher Dexterity score.
-
-As a bonus action, you can spend 3 stamina points to increase your speed to astronomical heights for 1 minute. For the duration, you gain the following benefits:
-
-Your walking speed increases by your Dexterity modifier times 10.
-Creatures with a passive perception below your Dexterity score cannot make attacks of opportunity against you.
-Adrenaline Addict
-Prerequisites: 11th level, 18 or more Strength score.
-
-To enjoy battle to its fullest potential is your objective, and nothing will stop you from doing so. Whenever you are below half of your maximum hit points (rounded up), you can spend 1 stamina point at the beginning of your turn to gain the following benefits:
-
-You gain a +2 to melee weapon attack and damage rolls that use Strength.
-Your walking speed increases by 10.
-You can make one melee weapon attack as a bonus action.
-You lose all benefits after combat ends, or you take a short or long rest.
-
-Master Maneuvers
-Battle Maneuvers
-Combo
-Prerequisites: 17th level, 26 or higher Dexterity score.
-
-Once you hit an attack, you can start an incredible sequence. If you have not moved at all on your turn, as part of making the first attack in your turn, you can spend 3 stamina points to start a combo. However, each attack you make is harder to land than the next as you push yourself beyond your normal limits. The next attack has a -2 to hit, if you hit said attack the next attack has a -4 to hit, and so on. However, you are able to keep making attacks until you miss, to a maximum number of times equal to double your proficiency bonus. When you use this feature, your speed is reduced to 0 until the beginning of your next turn.
-
-These penalties to attack rolls last until the end of your current turn.
-
-Executioner's Blow
-Prerequisites: 17th level, 26 or higher Strength or Dexterity score.
-
-You can take advantage of a creature's unfortunate position to give a death blow. Whenever a creature is knocked prone within your reach, you can spend 2 stamina points as a reaction to make a melee weapon attack against said creature. On a hit, you deal extra damage equal to a number of effort dice rolls equal to your proficiency bonus.
-
-Instant Multi-Strike
-Prerequisites: 17th level, 26 or higher Dexterity score.
-
-As an action, you can spend 4 stamina points to flourish a melee weapon then vanish. Choose up to five targets that you can see within your walking speed range and make one melee attack against each one.
-
-Your attacks are made with advantage if the creatures have a passive perception lower than your battle maneuver save DC.
-
-You then appear in an unoccupied space of your choice you can see within 5 feet of the last creature you hit using this maneuver.
-
-Throw Building
-Prerequisites: 17th level, 26 or higher Strength score.
-
-In place of an attack, for 3 stamina points, you can choose a creature or object of a size up to 1 size category larger than you within your unarmed strike reach, and make an Athletics check contested by their Athletics or Acrobatics (their choice). On a success, you can throw the creature up to 60 feet, dealing Xd6 bludgeoning damage (where X is your Strength modifier added five times) to them and anyone in the path they’re thrown in who fails a Dexterity saving throw.
-
-The d6s become D8s if the target is large, d10s if they’re huge, and d12s if they’re gargantuan.
-
-You may also use this maneuver with objects, having a set DC instead of a contested check:
-
-5 for tiny
-7 for small
-10 for medium
-15 for large
-20 for huge
-25 for gargantuan
-Supplementary Maneuvers
-Meat Shield
-Prerequisites: 17th level, 26 or higher Constitution score.
-
-Once per round, when being forced to make a Strength or Dexterity saving throw, you can spend 3 stamina points to fail the save and take the damage. However, this protects creatures if you manage to take all the damage. Any creature that’s not at least one size bigger than yourself that’s at least 5 feet behind you is not affected by the saving throw, even if they are within range if you manage to take all the damage.
-
-Supreme Instinct
-Prerequisites: 17th level, Precognition Body Improvement.
-
-You have learned to enter a state of extreme focus to feel the flow of the world around you, air density, facets, and your surroundings will allow you to anticipate incoming attacks. As an action for 5 stamina points, you can begin concentrating as if concentrating on a spell. For one minute, you add your proficiency bonus to your AC, and gain a bonus to any saving throws you are forced to make equal to half of your proficiency bonus. While in this state, any blindsight you have will be increased by your proficiency bonus times 5. You must use your bonus action on each of your turns to remain in this state.
-
-This feature does not work on attacks or saving throws you cannot see or are not aware of, or attacks that do not travel through your surroundings, such as mental attacks.

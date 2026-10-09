@@ -140,7 +140,7 @@ This usage of the feat is only possible using the Jujutsu Sorcerer class. Your c
 
 #### Near Zero
 
-Your Heavenly Restriction has traded off the majority of cursed energy and your cursed technique for physical prowess, though you are still a sorcerer capable of using cursed energy.
+This usage of the feat is only possible using the Jujutsu Sorcerer class.our Heavenly Restriction has traded off the majority of cursed energy and your cursed technique for physical prowess, though you are still a sorcerer capable of using cursed energy.
 
 You do not have a Cursed Technique, and your cursed energy maximum will be equal to your Charisma modifier, and cannot be increased through use of feats or features that normally increase your cursed energy maximum. You also do not benefit from features relating to cursed energy that give you passive benefits, such as Cursed Empowered Strikes, Curse Enhanced Body, or Cursed Energy Reinforcement.
 
@@ -159,7 +159,6 @@ This usage of the feat is only possible using the Heavenly Restriction class. Yo
 
 The Restrained Body feature now gives you +2 at every score increase. The Semi-Awakened Body feature also gives you a +2 increase. The Awakened Body feature also gives you a +4 bonus or two +2 bonuses.
 You gain 1 Body Feats of your choice that you meet the prerequisites for.
-Your body, training, and instinct far surpasses what anyone else can accomplish. You gain additional Body Points equal to your proficiency bonus, and any time your proficiency bonus increases, you gain additional body points equal to that new value.
 You can see cursed energy and things made of pure cursed energy such as barriers and creatures with the Invisible Force feature. You cannot be tracked by magical means. Abilities that sense ki, cursed energy, magic, or anything of the sort don't work for you. You also count as an object while inside a Domain Expansion, and cannot be detected by one while inside one (Ex: If you are trapped inside a domain that forces you to make a Constitution saving throw as its sure hit, you won't have to make the saving throw). You may also freely pass through barriers made of cursed energy of any kind, suffering no ill effects for doing so. When you pass through a barrier that presents an extra-dimensional space on the inside, such as a Domain Expansion, you do not appear in the manifested space, instead being in the space the barrier is in the real world, with no ill effects. As a bonus action, you can choose to enter or exit the space physically. If you choose to enter, you appear within the space like any other creature that would normally manifest inside it. When inside the Domain, you can exit the barrier freely at any time by physically exiting the barrier’s area.
 ### Blessed by the Sparks
 

@@ -57,7 +57,19 @@ Even by the supernatural standards of the Jujutsu world, your agility is fearsom
 You are exceptionally durable, making you difficult to take down.
 
 * Your Constitution score increases by 1, to a maximum of 20.
-* You will add an additional 1+half your proficenecy bonus (rounding down) to your Hitpoints per level.
+* You will add an additional 1+half your (Proposed Revision)
+(Star Rage may need adjustment if implimented).
+
+**Heavy Finisher**
+*Prerequisites: Strength 20 or higher; Colossal Physique.*
+
+Once per round, when you hit with a melee attack, you can spend up to twice your Strength modifier in Cursed Energy. You may spend 1 Stamina for every 2 Cursed Energy instead. When you do, the target must make a Strength saving throw. On a failed save, it takes 1d10 Force or Bludgeoning damage for every 2 Cursed Energy spent and is knocked back 5 feet per Cursed Energy spent. On a successful save, it takes half as much damage and is not knocked back.
+
+If a creature collides with another creature or object during its knockback, it takes 1d6 damage for every 10 feet of movement remaining and deals the same amount of damage to the creature or object it collided with. A creature that collides with another creature may make a Dexterity saving throw, taking half as much damage on a successful save.
+
+* If a creature fails the saving throw for the collision damage by 5 or more, or if the triggering attack was a critical hit, the creature is knocked Prone.
+* If you use this feat at the same time as Colossal Physique or another feature that causes knockback, combine the total distance knocked back and use the highest damage die for the collision.
+* If your melee attack was aimed at the ground rather than a creature, you instead create a shockwave that extends 5 feet in every direction for every 2 Cursed Energy spent. Creatures in the area must make a Dexterity saving throw. On a failed save, a creature takes 1d10 damage for every 2 Cursed Energy spent and is pushed to the closest unoccupied space outside the area of this feat. On a successful save, it takes half as much damage and is not pushed. If a creature fails this saving throw by 5 or more, it is Confused until the beginning of your next turn. bonus (rounding down) to your Hitpoints per level.
 * Reduce all damage you take except psychic damage by your Constitution modifier. Attacks using Cursed Energy or magic can bypass this reduction unless you are under the effects of Cursed Armor.
 
 ### Human Wall
