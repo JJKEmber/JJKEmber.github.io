@@ -12,7 +12,7 @@ You were born with an extraordinary physique that surpasses the limits of an ord
 
 Choose Strength, Dexterity, or Constitution. The maximum for the chosen ability score increases by 2. Additionally, the chosen ability score increases by 1 each time you gain a level, up to its new maximum. You also gain proficiency in saving throws using the chosen ability score.
 
-Additionally, one of your other two physical ability scores of your choice increases by 1, up to its normal maximum.
+Additionally, you gain a +1 to the other two physical ability scores, up to their maximums.
 
 The benefits you gain depend on the ability score you chose:
 
@@ -158,7 +158,7 @@ At 5th level, you gain the Heavenly Combatant feature from the Heavenly Restrict
 This usage of the feat is only possible using the Heavenly Restriction class. You are the pinnacle of Heavenly Restriction, completely free from cursed energy. You gain the following benefits:
 
 The Restrained Body feature now gives you +2 at every score increase. The Semi-Awakened Body feature also gives you a +2 increase. The Awakened Body feature also gives you a +4 bonus or two +2 bonuses.
-You gain 1 Body Feats of your choice that you meet the prerequisites for.
+You gain 2 Body Feats of your choice that you meet the prerequisites for.
 You can see cursed energy and things made of pure cursed energy such as barriers and creatures with the Invisible Force feature. You cannot be tracked by magical means. Abilities that sense ki, cursed energy, magic, or anything of the sort don't work for you. You also count as an object while inside a Domain Expansion, and cannot be detected by one while inside one (Ex: If you are trapped inside a domain that forces you to make a Constitution saving throw as its sure hit, you won't have to make the saving throw). You may also freely pass through barriers made of cursed energy of any kind, suffering no ill effects for doing so. When you pass through a barrier that presents an extra-dimensional space on the inside, such as a Domain Expansion, you do not appear in the manifested space, instead being in the space the barrier is in the real world, with no ill effects. As a bonus action, you can choose to enter or exit the space physically. If you choose to enter, you appear within the space like any other creature that would normally manifest inside it. When inside the Domain, you can exit the barrier freely at any time by physically exiting the barrier’s area.
 ### Blessed by the Sparks
 

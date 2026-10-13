@@ -57,8 +57,8 @@ Even by the supernatural standards of the Jujutsu world, your agility is fearsom
 You are exceptionally durable, making you difficult to take down.
 
 * Your Constitution score increases by 1, to a maximum of 20.
-* You will add an additional 1+half your (Proposed Revision)
-(Star Rage may need adjustment if implimented).
+* You will add an additional 1+half your proficiency bonus to your Hp per level. 
+* You will reduce all damage you take but psychic by your Constitution modifier. Attacks using Cursed Energy or magic can bypass this, unless you're under the effects of Cursed Armor.
 
 **Heavy Finisher**
 *Prerequisites: Strength 20 or higher; Colossal Physique.*

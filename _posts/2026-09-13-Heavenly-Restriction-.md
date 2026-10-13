@@ -152,7 +152,7 @@ At 3rd level, your Heavenly Restriction has made your senses way more powerful t
 #### Ability Score Improvement
 When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, 18th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. You can't increase an ability score above your ability score limit using this feature. 
 
-You may also ignore this increase to instead gain a **Cursed Feat**.
+You may also ignore this increase to instead gain a **Feat**.
 
 #### Extra Attack
 At 5th level, you can now attack twice instead of once when you take the Attack action. This increases to three times instead of twice at 11th level, and to four at 17th level.
